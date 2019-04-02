@@ -2,9 +2,9 @@ const handlers = require("./handlers");
 
 const router = (req, res) => {
   if (req.url == "/") {
-    res.writeHead(200, { "content-type": "text/html" });
-    res.end("Hello");
+    handlers.handleHome(req, res);
   } else if (req.url.includes("/public/")) {
+    handlers.handlePublic(req, res);
   } else {
     res.writeHead(404, { "content-type": "text/html" });
     res.end("404: not found");

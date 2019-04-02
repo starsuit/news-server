@@ -16,7 +16,6 @@ test("Home route", t => {
     .end((err, res) => {
       t.error(err);
       t.equal(res.statusCode, 200, "Should return 200");
-      t.equal(res.text, "Hello", "response should contain 'Hello'");
       t.end();
     });
 });
