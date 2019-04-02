@@ -1,0 +1,106 @@
+{
+  "status": "ok",
+  "totalResults": 10,
+  "articles": [
+    {
+      "source": { "id": "bbc-news", "name": "BBC News" },
+      "author": "BBC News",
+      "title": "Nipsey Hussle murder suspect arrested",
+      "description": "Eric Holder, 29, had been on the run since Sunday's shooting of the American rapper.",
+      "url": "http://www.bbc.co.uk/news/world-us-canada-47795493",
+      "urlToImage": "https://ichef.bbci.co.uk/images/ic/1024x576/p07570z2.jpg",
+      "publishedAt": "2019-04-02T21:29:23Z",
+      "content": "Media captionNipsey Hussle, 33, was shot dead outside his clothing store in Los Angeles\r\nA suspect in Sunday's murder of Los Angeles rapper Nipsey Hussle has been arrested, officials say.\r\nEric Holder, 29, had been on the run after fleeing the scene of the sh… [+769 chars]"
+    },
+    {
+      "source": { "id": "bbc-news", "name": "BBC News" },
+      "author": "BBC News",
+      "title": "Identical twins must both pay maintenance",
+      "description": "The Brazilian brothers had refused to admit who the father of the baby was, a judge says.",
+      "url": "http://www.bbc.co.uk/news/world-latin-america-47794844",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/DA9F/production/_106276955_6f573f4b-636a-480b-8dc3-d1ab4061d930.jpg",
+      "publishedAt": "2019-04-02T20:05:10Z",
+      "content": "Image caption\r\n DNA tests concluded that either man could be the father\r\nA judge in Brazil has ordered identical twin brothers to pay maintenance to a child whose paternity could not be established. \r\nThe men refused to say which one of them had fathered the … [+1106 chars]"
+    },
+    {
+      "source": { "id": "bbc-news", "name": "BBC News" },
+      "author": "BBC News",
+      "title": "Algeria's President Bouteflika 'resigns'",
+      "description": "Algeria's president Abdelaziz Bouteflika quits after weeks of mass protests demanding the 82-year-old step down - state news agency.",
+      "url": "http://www.bbc.co.uk/news/world-africa-47795108",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/7A23/production/_97176213_breaking_news_bigger.png",
+      "publishedAt": "2019-04-02T19:03:11Z",
+      "content": "Algeria's President Abdelaziz Bouteflika has resigned after weeks of mass protests, the state news agency APS reports. \r\nMr Bouteflika, who had been in power for 20 years, had already dropped plans to seek a fifth term as opposition to his rule grew. \r\nThe po… [+467 chars]"
+    },
+    {
+      "source": { "id": "bbc-news", "name": "BBC News" },
+      "author": "BBC News",
+      "title": "UK needs further Brexit extension - May",
+      "description": "Theresa May says UK needs extension to Brexit and offers to work with Labour's Jeremy Corbyn to end stalemate",
+      "url": "http://www.bbc.co.uk/news/uk-politics-47794235",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/7A23/production/_97176213_breaking_news_bigger.png",
+      "publishedAt": "2019-04-02T17:19:39Z",
+      "content": "Theresa May will ask the EU for an extension to the Brexit deadline to \"break the log jam\" in Parliament. \r\nThe PM says she wants to meet Labour leader Jeremy Corbyn to agree a plan on the future relationship with the EU.\r\nBut she insisted her withdrawal agre… [+501 chars]"
+    },
+    {
+      "source": { "id": "bbc-news", "name": "BBC News" },
+      "author": "BBC News",
+      "title": "Canada 'warming faster than rest of world'",
+      "description": "The federal government report warns Canada's Arctic is most affected by the changing climate.",
+      "url": "http://www.bbc.co.uk/news/world-us-canada-47754189",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/72F3/production/_106272492_gettyimages-144098518.jpg",
+      "publishedAt": "2019-04-02T15:36:30Z",
+      "content": "Image copyrightUIG via Getty ImagesImage caption\r\n Canada's Arctic is warming faster than southern Canada\r\nCanada is warming on average at a rate twice as fast as the rest of the world, a new scientific report indicates. \r\nThe federal government climate repor… [+2579 chars]"
+    },
+    {
+      "source": { "id": "bbc-news", "name": "BBC News" },
+      "author": "BBC News",
+      "title": "Trump: No healthcare vote until after 2020",
+      "description": "The move comes a week after Mr Trump called for Republicans to vote on replacing the healthcare law.",
+      "url": "http://www.bbc.co.uk/news/world-us-canada-47776965",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/6226/production/_106262152_gettyimages-821732584.jpg",
+      "publishedAt": "2019-04-02T15:15:51Z",
+      "content": "Image copyrightGetty ImagesImage caption\r\n The delay is seen as a reversal, after calls last week for an immediate healthcare replacement.\r\nUS President Donald Trump has said he wants to wait until after the 2020 election to draft a new healthcare plan to rep… [+3761 chars]"
+    },
+    {
+      "source": { "id": "bbc-news", "name": "BBC News" },
+      "author": "BBC News",
+      "title": "Peace in the shadow of the Taliban?",
+      "description": "The BBC’s Lyse Doucet asked people in the capital of Afghanistan’s Helmand province whether they thought the Taliban were serious about peace.",
+      "url": "http://www.bbc.co.uk/news/world-47791338",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/7B31/production/_106273513_helmandpic2.jpg",
+      "publishedAt": "2019-04-02T14:57:14Z",
+      "content": null
+    },
+    {
+      "source": { "id": "bbc-news", "name": "BBC News" },
+      "author": "BBC News",
+      "title": "Joe Biden, the touchy-feely politician",
+      "description": "The allegations are in a grey area that the #MeToo movement has not figured out how to address, says Katty Kay.",
+      "url": "http://www.bbc.co.uk/news/world-us-canada-47778527",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/1600F/production/_106272109_gettyimages-152927169.jpg",
+      "publishedAt": "2019-04-02T13:58:18Z",
+      "content": "Image copyrightGetty ImagesImage caption\r\n Joe Biden poses with a supporter on the campaign trail in 2012\r\nFormer Vice President Joe Biden is what used to be described as \"touchy feely.\" He is physical, with everyone. He is also known as one of the more empat… [+3996 chars]"
+    },
+    {
+      "source": { "id": "bbc-news", "name": "BBC News" },
+      "author": "BBC News",
+      "title": "The neo-Nazi paedophile who plotted to kill",
+      "description": "The story of the trials of Jack Renshaw, a neo-Nazi who admitted a terrorist plot to kill a politician.",
+      "url": "http://www.bbc.co.uk/news/stories-44798649",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/121EE/production/_106022247_renshaw-liverpool.jpg",
+      "publishedAt": "2019-04-02T12:47:57Z",
+      "content": "A jury has been unable to decide whether Jack Renshaw, a neo-Nazi who admitted a terrorist plot to kill an MP, remained a member of a banned terrorist group. At the end of his fourth and final trial of the past two years, the full story of those cases can now… [+16532 chars]"
+    },
+    {
+      "source": { "id": "bbc-news", "name": "BBC News" },
+      "author": "BBC News",
+      "title": "How this boy's funny faces made him a China star",
+      "description": "How does an eight-year-old from Minneapolis become so famous in China that he gets mobbed on arrival?",
+      "url": "http://www.bbc.co.uk/news/world-us-canada-47778522",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/914B/production/_106259173_p07564ls.jpg",
+      "publishedAt": "2019-04-01T22:31:05Z",
+      "content": null
+    }
+  ]
+}

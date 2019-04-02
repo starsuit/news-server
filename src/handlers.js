@@ -1,6 +1,8 @@
 const fs = require("fs");
 const path = require("path");
 const url = require("url");
+const newsData = require("./news.json");
+const newsFinder = require("./newsFinder");
 
 const handleHome = (req, res) => {
   fs.readFile(
@@ -46,7 +48,15 @@ const handlePublic = (req, res) => {
   });
 };
 
+const handleNews = (req, res) => {
+  const newsQuery = url.parse(req.url, true).query.search;
+  const returnNews = newsFinder(newsData, "title");
+  res.writeHead(200, { "Content-Type": "application/json" });
+  res.end(JSON.stringify(returnNews));
+};
+
 module.exports = {
   handleHome,
-  handlePublic
+  handlePublic,
+  handleNews
 };

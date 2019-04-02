@@ -43,3 +43,15 @@ test("Public route (js)", t => {
       t.end();
     });
 });
+
+test("News request route", t => {
+  supertest(router)
+    .get("/news")
+    .expect(200)
+    .expect("Content-Type", /json/)
+    .end((err, res) => {
+      t.error(err);
+      t.equal(res.statusCode, 200, "Should return 200");
+      t.end();
+    });
+});

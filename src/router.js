@@ -5,6 +5,8 @@ const router = (req, res) => {
     handlers.handleHome(req, res);
   } else if (req.url.includes("/public/")) {
     handlers.handlePublic(req, res);
+  } else if (req.url.includes("/news")) {
+    handlers.handleNews(req, res);
   } else {
     res.writeHead(404, { "content-type": "text/html" });
     res.end("404: not found");
