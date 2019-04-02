@@ -1,0 +1,30 @@
+{
+  "name": "news-server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "tape src/tests.js | tap-spec",
+    "coverage": "nyc tape src/tests.js",
+    "start": "node src/scripts/server.js",
+    "dev": "nodemon src/scripts/server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/starsuit/news-server.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/starsuit/news-server/issues"
+  },
+  "homepage": "https://github.com/starsuit/news-server#readme",
+  "devDependencies": {
+    "nodemon": "^1.18.10",
+    "nyc": "^13.3.0",
+    "supertest": "^4.0.2",
+    "tap-spec": "^5.0.0",
+    "tape": "^4.10.1"
+  }
+}
