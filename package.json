@@ -22,12 +22,14 @@
   },
   "homepage": "https://github.com/starsuit/news-server#readme",
   "devDependencies": {
-    "dotenv": "^7.0.0",
     "eslint": "^5.16.0",
     "nodemon": "^1.18.10",
     "nyc": "^13.3.0",
     "supertest": "^4.0.2",
     "tap-spec": "^5.0.0",
     "tape": "^4.10.1"
+  },
+  "dependencies": {
+    "dotenv": "^7.0.0"
   }
 }
